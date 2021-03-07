@@ -1,0 +1,31 @@
+
+
+Version:	3.12
+CmdLine:	E:\GitHub\jogo\exe\JogoGourmet.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\GitHub\jogo\exe\.
+Java min ver:	1.004.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_281
+Check launcher:	C:\Program Files\Java\jre1.8.0_281\bin\javaw.exe (OK)
+Match:		1.008.000_281
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_281
+Ignore:		1.008.000_281
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\15.0.2
+Check launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe (OK)
+Match:		1.015.000_002
+Runtime used:	1.015.000_002 (64-bit)
+Substitute:	TEMP = C:\Users\Ronaldo\AppData\Local\Temp
+Launcher:	C:\Program Files\Java\jdk-15.0.2\bin\javaw.exe
+Launcher args:	-Denv.temp="C:\Users\Ronaldo\AppData\Local\Temp" -jar "E:\GitHub\jogo\exe\JogoGourmet.exe"
+Args length:	90/32768 chars
+Exit code:	0
